@@ -22,7 +22,7 @@ const Home = () => {
         <Background images={images}>
         <div className='cupid__landing'>
           <div className='cupid__content'>
-          <h1>Dear Pampared 💕...</h1>
+          <h1>Dear Pampered 💕...</h1>
 
           <hr></hr>
           <p>My dearest Oluwafolakemi,</p>
