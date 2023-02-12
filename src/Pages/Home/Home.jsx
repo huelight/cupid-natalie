@@ -28,14 +28,13 @@ const Home = () => {
           <p>My dearest Oluwafolakemi,</p>
 
           <p>
-            
             As we approach this special day of love, 
             I can't help but think about all the amazing memories we've shared together. 
-            You have brought so much joy and happiness into my life and I feel incredibly lucky to have you by my side.
           </p>
 
           <p> 
-            The feeling of knowing you're mine never gets old, would you be my girlfriend and continue this journey with me?
+          You have brought so much joy and happiness into my life and I feel incredibly lucky to have you by my side.
+          Would you be my girlfriend and continue this journey with me?
           </p>
           
           <p>
