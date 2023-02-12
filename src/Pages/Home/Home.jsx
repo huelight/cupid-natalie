@@ -48,15 +48,9 @@ const Home = () => {
         <div className="popup-container">
           <h3>I'm Always Yours</h3>
           <p>Roses are red, violets are blue,<br></br>
-            I never knew love until I met you.<br></br>
             Your smile lights up my day,<br></br>
-            Every moment with you is a holiday.
-          </p>
-          <p>
-            So on this Valentine's Day, I want to say,<br></br>
             How much I love you and always will,<br></br>
-            You are my everything, my world, my way,<br></br>
-            And I can't imagine life without you still.
+            You are my everything, my world, my way.
           </p>
           <p>...Olumide</p>
           <button onClick={() => setShowPopup1(!showPopup1)}>Close</button>
